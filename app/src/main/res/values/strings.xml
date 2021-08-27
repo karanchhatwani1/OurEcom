@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">OurEcom</string>
+    <string name="ownerName">Enter Owner Name</string>
+    <string name="ownerhint">Enter Owner Name</string>
+    <string name="shopHint">Enter Shop Name</string>
+    <string name="shopTypeHint">ShopType</string>
+    <string name="phone_number">Owner Number</string>
+    <string name="timing">Shop Timings</string>
+    <string name="OpenHint">Opens At</string>
+    <string name="CloseHint">Closes At</string>
+    <string name="Next">NEXT</string>
+    <string name="email">Email (Optional)</string>
+    <string name="AddPhoto">Add Photos (Optional)</string>
+    <string name="AddPhotos">"Add Photos (Optional)</string>
+    <string name="Proceed">PROCEED</string>
 </resources>
