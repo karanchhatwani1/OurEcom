@@ -20,6 +20,7 @@ public class ShopDetails extends AppCompatActivity {
         setContentView(b.getRoot());
         setTitle("Shop Details");
         buttonHandler();
+        setupHideErrorForEditText();
     }
 
     private void checkDetails() {
